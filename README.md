@@ -1,2 +1,2 @@
-# Web_App_For_Malwre_prediction
+# Web_App_For_Malware_prediction
 Task4_Tarento
